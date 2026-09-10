@@ -130,7 +130,7 @@ if st.button("🧮 TÍNH TOÁN", use_container_width=True):
 
     # ------------------------------------------
     # LÃI KÉP
-    # ------------------------------------------
+# ------------------------------------------
 
     st.markdown("### 🟢 2. Lãi kép")
 
@@ -210,3 +210,6 @@ if st.button("🧮 TÍNH TOÁN", use_container_width=True):
         st.write(
             f"= **{tong_lai_kep:,.0f} VNĐ**"
         )
+
+
+    
